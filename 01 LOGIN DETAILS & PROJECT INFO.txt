@@ -1,0 +1,20 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: job-portal**
+
+**Developed by CodeAstro**
+
+
+**Admin Login Details**
+
+Username: admin@mail.com
+Password: codeastro.com
+
+**Important Notes**
+
+- Please refer to the LICENSE file included in this project for usage terms and conditions.
+
+- For a complete step-by-step installation guide, visit the project post page on our website.
+
+- Make sure your server meets the minimum requirements before installation.
+

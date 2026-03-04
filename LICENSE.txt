@@ -1,0 +1,39 @@
+Educational Use License (EUL) v1.0
+
+Copyright © 2026 CodeAstro
+All rights reserved.
+
+Permission is hereby granted to any individual to view, study, and use this project
+and its source code solely for educational and academic purposes.
+
+Educational and academic purposes include personal learning, skill development,
+research, and coursework-related activities, provided that proper credit is given
+to the original author.
+
+The following actions are strictly prohibited without prior written permission
+from the copyright holder:
+
+1. Redistribution, re-uploading, or sharing of the project or its source code,
+   in whole or in part, on any website, repository, platform, or medium.
+2. Commercial use of the project or its source code, including but not limited to
+   selling, licensing, monetizing, or using it in paid products or services.
+3. Modification of the project for the purpose of sale, monetization, or
+   commercial distribution.
+4. Removal or alteration of copyright notices or author attribution.
+5. Claiming authorship or ownership of this project or its source code.
+
+This project is provided "AS IS", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose, and noninfringement. In no event shall the author be liable
+for any claim, damages, or other liability arising from the use of this project.
+
+Any use of this project outside the scope of this license automatically terminates
+the permissions granted herein.
+
+For permissions beyond the scope of this license, including commercial use or
+redistribution, please contact:
+
+CodeAstro
+https://codeastro.com
+
+End of License
